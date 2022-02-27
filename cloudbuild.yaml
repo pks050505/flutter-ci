@@ -1,4 +1,4 @@
 
 steps:
 - name: 'gcr.io/api-5129952988619103295-268307/myflutter@sha256:bebb0e7d491c9ad916b9f243277add98405f8d0186cca2a317f198c8c8f3131c'
-  args: ['flutter', 'doctor']
+  args: ['fastlane', '-version']
