@@ -1,0 +1,4 @@
+
+steps:
+- name: 'gcr.io/api-5129952988619103295-268307/myflutter'
+  args: ['flutter', 'doctor']
