@@ -1,4 +1,4 @@
 
 steps:
-- name: 'gcr.io/api-5129952988619103295-268307/myflutter'
+- name: 'gcr.io/api-5129952988619103295-268307/myflutter:stable'
   args: ['flutter', 'doctor']
