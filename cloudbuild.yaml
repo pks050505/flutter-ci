@@ -1,4 +1,3 @@
-
 steps:
--name:'gcr.io/api-5129952988619103295-268307/myflutter@sha256:bebb0e7d491c9ad916b9f243277add98405f8d0186cca2a317f198c8c8f3131c'
+- name: 'gcr.io/api-5129952988619103295-268307/myflutter@sha256:334492abc87fd98905bf1c133d8172b11792c9dbec98a6aa6e52e8611122f964'
   args: ['fastlane', '-version']
